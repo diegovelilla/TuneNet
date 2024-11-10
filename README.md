@@ -12,7 +12,7 @@ TuneNet is an AI-powered music genre classifier that accepts any type of .wav so
 ---
 
 ## Overview
-TuneNet uses AI to classify every inputed song into 10 different categories, these being: blues, classical, countr, disco, hiphop, jazz, metal, pop, reggae and rock. In thise implementation both Deep Neural Networks and Convolutional Neural Networks are used, showing a big difference between both models. Also, regularization and data augmentation techniques are used in order to achieve better performance of the model. This project can be tested since it is uploaded to Hugging Face Spaces in order to give it a try ([https://huggingface.co/spaces/diegovelilla/TuneNet](huggingface.co/spaces/diegovelilla/TuneNet)). If there's an error on entering the site, click the top-right 3 dots and select "Restart Space".
+TuneNet uses AI to classify every inputed song into 10 different categories, these being: blues, classical, countr, disco, hiphop, jazz, metal, pop, reggae and rock. In thise implementation both Deep Neural Networks and Convolutional Neural Networks are used, showing a big difference between both models. Also, regularization and data augmentation techniques are used in order to achieve better performance of the model. This project can be tested since it is uploaded to Hugging Face Spaces in order to give it a try ([huggingface.co/spaces/diegovelilla/TuneNet](https://huggingface.co/spaces/diegovelilla/TuneNet)). If there's an error on entering the site, click the top-right 3 dots and select "Restart Space".
 
 ## Features
 - No cost API usage.
